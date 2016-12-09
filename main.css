@@ -1,0 +1,29 @@
+.title {
+   border: 2px solid purple;
+   background-color: white;
+}
+#title {
+ color: black;
+ font-family: Arial;
+ text-align: center;
+}
+.navbar {
+ border: 6px solid purple;
+ background-color: red;
+}
+a {
+ text-decoration: none;
+}
+a:hover {
+ color: green;
+}
+a:visited {
+  color: red;
+}
+.about {
+ border: 6px dashed blue;
+ background-color: purple;
+}
+.contact {
+ background-color: white;
+}
